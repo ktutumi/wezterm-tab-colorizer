@@ -9,13 +9,13 @@ local module = {}
 local default_config = {
   -- Color palette
   colors = {
-    '#ff6b6b', -- Red
-    '#4ecdc4', -- Cyan
-    '#45b7d1', -- Blue
-    '#f9ca24', -- Yellow
-    '#6ab04c', -- Green
-    '#c44569', -- Pink
-    '#786fa6', -- Purple
+    '#8B7FA0', -- Purple
+    '#D05A6E', -- Pink
+    '#4C8C92', -- Cyan
+    '#5383C3', -- Blue
+    '#E95464', -- Red
+    '#F6B352', -- Yellow
+    '#69B076', -- Green
   },
 
   -- Inactive tab darkness (0.0-1.0)
